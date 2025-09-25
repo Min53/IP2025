@@ -1,7 +1,7 @@
 
 
 Homework1
-<video src="https://github.com/Min53/IP2025/raw/refs/heads/main/homework1.mp4" controls="controls" style="max-width: 720px;">
+<video src="https://cdn.discordapp.com/attachments/956811944357167146/1420632131842998292/homework1.mp4?ex=68d61a46&is=68d4c8c6&hm=f1e7c9248e8eb3f7279ad0d5a2afc9149f735753dbbe8997ca65a355b40ece02&" controls="controls" style="max-width: 720px;">
 </video>
 
 </video>
