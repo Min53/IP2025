@@ -1,7 +1,7 @@
 
 
 Homework1
-<video src="httpsd://github.com/Min53/IP2025/raw/main/homework1.mp4" controls="controls" style="max-width: 720px;">
+<video src="https://github.com/Min53/IP2025/raw/refs/heads/main/homework1.mp4" controls="controls" style="max-width: 720px;">
 </video>
 
 </video>
