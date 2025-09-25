@@ -1,7 +1,8 @@
 
 
 Homework1
-<video src="./homework1.mp4" controls="controls" style="max-width: 720px;">
+<video src="httpsd://github.com/Min53/IP2025/raw/main/homework1.mp4" controls="controls" style="max-width: 720px;">
+</video>
 
 </video>
 Homework3
